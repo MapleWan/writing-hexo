@@ -7,7 +7,6 @@ tags:
   - hexo
 date: 2024-02-02 14:41
 ---
-
 # 基本配置
 
 参考 [hexo文档](https://hexo.io/zh-cn/docs/)
