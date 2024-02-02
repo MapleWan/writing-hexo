@@ -6,7 +6,7 @@ author: Maple Wan
 language: zh-CN
 timezone: ''
 url: "http://example.com"
-permalink: ':year/:month/:day/:title/'
+permalink: '_posts/:title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
@@ -18,7 +18,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: ':lang'
-skip_render: null
+skip_render: template/**
 new_post_name: ':title.md'
 default_layout: post
 titlecase: false
