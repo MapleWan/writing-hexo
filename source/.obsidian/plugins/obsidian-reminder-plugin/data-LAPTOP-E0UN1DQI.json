@@ -1,0 +1,51 @@
+{
+  "scanned": true,
+  "reminders": {
+    "算法训练营/0 刷题日志/3 【刷题日志】数组、链表、跳表.md": [
+      {
+        "title": "第四遍",
+        "time": "2023-12-27",
+        "rowNumber": 4
+      },
+      {
+        "title": "第四遍",
+        "time": "2023-12-28",
+        "rowNumber": 10
+      },
+      {
+        "title": "第四遍",
+        "time": "2023-12-29",
+        "rowNumber": 16
+      },
+      {
+        "title": "第三遍",
+        "time": "2023-12-25",
+        "rowNumber": 21
+      },
+      {
+        "title": "第四遍",
+        "time": "2023-12-30",
+        "rowNumber": 22
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "scanned": true,
+  "reminders": {
+    "算法训练营/0 刷题日志/5 【刷题日志】 哈希表、映射、集合.md": [
+      {
+        "title": "第四遍",
+        "time": "2024-01-16 11:33",
+        "rowNumber": 7
+      }
+    ],
+    "算法训练营/0 刷题日志/6【刷题日志】树、搜索树、二叉搜索树.md": [
+      {
+        "title": "第四遍",
+        "time": "2024-01-16",
+        "rowNumber": 3
+      },
+      {
+        "title": "第三遍",
+        "time": "2024-01-16 11:33",
+        "rowNumber": 22
+      },
+      {
+        "title": "第四遍",
+        "time": "2024-01-17",
+        "rowNumber": 8
+      },
+      {
+        "title": "第四遍",
+        "time": "2024-01-18",
+        "rowNumber": 13
+      },
+      {
+        "title": "第四遍",
+        "time": "2024-01-19",
+        "rowNumber": 18
+      },
+      {
+        "title": "第四遍",
+        "time": "2024-01-20",
+        "rowNumber": 23
+      }
+    ],
+    "算法训练营/0 刷题日志/7【刷题日志】递归.md": [
+      {
+        "title": "第三遍",
+        "time": "2024-01-16",
+        "rowNumber": 2
+      },
+      {
+        "title": "第四遍",
+        "time": "2024-01-21",
+        "rowNumber": 3
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
